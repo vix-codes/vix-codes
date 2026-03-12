@@ -9,7 +9,7 @@
    ╚═══╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+useful+software%2C+one+experiment+at+a+time.;Backend+systems+%7C+AI+tools+%7C+Products+that+ship." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=FF8C00&center=true&vCenter=true&width=620&lines=Building+useful+software%2C+one+experiment+at+a+time.;Backend+systems+%7C+AI+tools+%7C+Products+that+ship." />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ### `whoami`
 
-- Backend-first developer. Systems over scripts.
+- Software Engineer. Systems over scripts.
 - Interested in AI tooling, developer infrastructure, and products that solve real problems.
 - I spend most of my time designing services that run quietly and scale without surprises.
 - Currently building at the intersection of automation and product engineering.
@@ -32,7 +32,7 @@
 ### Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,firebase,postgres,docker,git,linux&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nextjs,nodejs,spring,flutter,postgres,firebase,docker,git,linux&perline=14" />
 </p>
 
 ---
@@ -48,15 +48,12 @@
 
 ---
 
-### GitHub Signals
+### GitHub & LeetCode Signals
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vix-codes&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vix-codes&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</div>
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vix-codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vix-codes&show_icons=true&hide_rank=true&hide_border=true&bg_color=1a1a2e&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vix-codes&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="170" src="https://leetcard.jacoblin.cool/Vix-codes?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8" />
 </div>
 
 ---
@@ -75,7 +72,7 @@ focus:
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vix-codes&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vix-codes&theme=tokyo-night&hide_border=true&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff" />
 </div>
 
 ---
