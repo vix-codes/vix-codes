@@ -38,14 +38,27 @@
 ---
 
 ### Projects & Experiments
-
-| Project | What it is |
-|---|---|
-| 🔗 [**URL Shortener**](https://github.com/vix-codes/URL-Shortener) | Backend service with clean redirection logic and minimal overhead |
-| 📄 [**SmartScan**](https://github.com/vix-codes/SmartScan) | Offline-first document scanning system built for reliability |
-| 🏠 [**Apartment Service Tracker**](https://github.com/vix-codes/Apartment-Service-Request-Tracking-System) | Workflow platform for maintenance operations and request lifecycle |
-| 🎬 [**Vix Studio**](https://github.com/vix-codes/vix-studio) | Local AI pipeline that automates YouTube Shorts generation end-to-end |
-
+ 
+<br>
+ 
+**🔗 URL Shortener** &nbsp;·&nbsp; [view →](https://github.com/vix-codes/URL-Shortener)
+> A backend service that converts long URLs into clean, shareable short links. Built with efficient redirection logic and minimal overhead — no bloat, just function.
+ 
+<br>
+ 
+**📄 SmartScan** &nbsp;·&nbsp; [view →](https://github.com/vix-codes/SmartScan)
+> Offline-first document scanning system designed around reliability. Handles processing automation without depending on a network — built to work in the real world.
+ 
+<br>
+ 
+**🏠 Apartment Service Tracker** &nbsp;·&nbsp; [view →](https://github.com/vix-codes/Apartment-Service-Request-Tracking-System)
+> A workflow platform for managing apartment maintenance requests end-to-end. Tracks service lifecycle, assigns operations, and keeps things from falling through the cracks.
+ 
+<br>
+ 
+**🎬 Vix Studio** &nbsp;·&nbsp; [view →](https://github.com/vix-codes/vix-studio)
+> A local AI-powered video production pipeline that automates YouTube Shorts generation. Script to render — minimal manual intervention, maximum output.
+ 
 ---
 
 ### GitHub & LeetCode Signals
