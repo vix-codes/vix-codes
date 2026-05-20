@@ -51,8 +51,18 @@
  
 <br>
  
-**🏠 Apartment Service Tracker** &nbsp;·&nbsp; [view →](https://github.com/vix-codes/Apartment-Service-Request-Tracking-System)
-> A workflow platform for managing apartment maintenance requests end-to-end. Tracks service lifecycle, assigns operations, and keeps things from falling through the cracks.
+**🏠 ResolveHub** &nbsp;·&nbsp; [view →](https://github.com/vix-codes/ResolveHub)
+> A production-style apartment maintenance and operations platform built using Node.js, Express, MongoDB, React, and Gemini AI. Manages tenant service workflows end-to-end with intelligent complaint categorization, technician assignment, audit tracking, notifications, analytics, and AI-assisted operational prioritization.
+ 
+<br>
+ 
+**⚙️ DockOps** &nbsp;·&nbsp; [view →](https://github.com/vix-codes/DockOps)
+> A self-hosted infrastructure control plane for deployment orchestration, Docker workload management, remote server operations, live logs, runtime monitoring, WebSocket-based metrics streaming, and operational observability across Linux environments.
+ 
+<br>
+ 
+**🧠 EvalForge** &nbsp;·&nbsp; [view →](https://github.com/vix-codes/EvalForge)
+> An internal AI reliability and regression-testing platform built using FastAPI, Redis, Celery, Ollama, and PostgreSQL to benchmark LLM outputs, validate AI-assisted workflows, measure latency and hallucination metrics, and automatically evaluate deployments against golden datasets.
  
 <br>
  
